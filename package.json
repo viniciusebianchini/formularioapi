@@ -1,0 +1,11 @@
+{
+  "name": "formularioapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:viniciusebianchini/formularioapi.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.0"
+  }
+}
